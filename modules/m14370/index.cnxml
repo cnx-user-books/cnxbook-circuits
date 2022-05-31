@@ -1,0 +1,142 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+    <title>Two Light Bulbs and A Battery: an Elementary Circuits Activity</title>
+    <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>0003d03c-0151-4fcb-af9b-1857d95e8809</md:uuid>
+</metadata>
+    <content>
+        <note type="Acknowledgment" id="idp4688752"><label>Acknowledgment</label>Development of this material was supported by the Arizona Board of Regents' Learner Centered Education Grant Program, Grant #11BU06.
+        </note>
+        <note id="idm467472">
+            Instructor information for this module is available <link document="m14369">here</link>.
+        </note>  
+        
+        <section id="Introduction">
+            <title>Introduction</title>
+            <para id="bob1">
+                The objective of this problem based learning activity is to create several simple electrical circuits with light bulbs and a battery. The purpose of the activity is to introduce you to several fundamental concepts in electrical circuits and identify and correct some potential misconceptions that you may have about electrical circuits.
+            </para>
+        </section>
+        <section id="OneBulb">
+            <title>Lighting One Bulb</title>
+            <para id="bob999">
+                Suppose you are driving late at night along a dark road and your car suddenly stops. Hoping to figure out what is wrong with the engine, you grab your flashlight and step out of the car, but accidentally drop the flashlight on the the pavement where it breaks into several pieces. You retrieve a battery and a light bulb from the black top. You have a few wires in the glove box leftover from your attempt to install a stereo. Can you use the battery, light bulbs, and wires to create enough light to check your engine?
+            </para>
+            <section id="OnePreliminary">
+                <title>Preliminary Reading</title>
+                <para id="bob2">
+                    Before beginning the activity, read <link url="http://home.howstuffworks.com/light-bulb.htm">       this description of a light bulb</link>. Pay particular attention to the figure of the light bulb-how is the filament connected to the two contacts?
+                </para>                
+            </section>
+            <section id="OneOther">
+                <title>Additional Reading Resources</title>
+                <para id="bob3">
+                    The following resources give additional information about circuits, and you may find them useful and interesting either before or after the problem based learning activity.
+                    <list id="ReadingList" list-type="bulleted">
+                        <item>
+                            <link document="m0011">The concepts of voltage and current</link>
+                        </item>
+                        <item>
+                            <link url="http://en.wikibooks.org/wiki/Circuit_Theory/Variables_and_Units">Brief definitions and descriptions of voltage and current</link>
+                        </item>
+                        <item>
+                            <link url="http://www.lightandmatter.com/html_books/4em/ch03/ch03.html">Extended definitions and descriptions of voltage, current, and resistance</link>
+                        </item>
+                        <item>
+                            <link url="http://en.wikibooks.org/wiki/Circuit_Theory/Circuit_Basics">Basic ideas and definitions  associated with circuits</link>
+                        </item>
+                        <item>
+                            Information about using multimeters is <link url="http://en.wikipedia.org/wiki/Multimeter">here</link> and <link url="http://www.doctronics.co.uk/meter.htm">here</link>.
+                        </item>
+                    </list>
+                </para>
+            </section>
+            <section id="OnePreQuestions">
+                <title>Preliminary Questions</title>
+                <para id="bob4">
+                    Before beginning the activity, answer the following questions:
+                     <list id="PQs" list-type="enumerated">
+                         <item>On <link target-id="fig1"/>, mark the path that electricity takes through the light bulb.</item>
+                         <item>Sketch how you could connect a wire, battery, and bulb to light the bulb.</item>
+                     </list>
+                     Discuss your answers with your team.   
+                </para>
+                <figure id="fig1">
+                    <media id="idm169648" alt=""><image src="../../media/Lightbulb.png" mime-type="image/png"/></media>
+                    <caption>
+                        Cutaway drawing of a lightbulb.
+                    </caption>
+                </figure>
+            </section>
+            <section id="OneActivity">
+                <title>Activity</title>
+                <para id="bob5">
+                    Working in your team, connect the battery and light bulb using wires so that the light bulb is lit.  Once you create a working circuit, try disconnecting each wire in your circuit (and then reconnecting it); what happens?
+                </para>
+            </section>
+            <section id="OnePostQuestions">
+                <title>Post-Activity Questions</title>
+                <para id="bob6">
+                    <list id="PQ2s" list-type="enumerated">
+                        <item>
+                            Sketch your working circuit-how is it different from your initial sketch?  Why is it different?
+                        </item>
+                        <item>
+                            What path does electricity take through the light bulb?
+                        </item>
+                        <item>
+                            What path does electricity take through your working circuit?
+                        </item>
+                        <item>
+                            An electrical schematic is a symbolic representation of a circuit. <link target-id="fig2"/> shows schematic symbols for a battery and a light bulb; lines between the symbols represent wires. Drawn a schematic that represents your working circuit.
+                        </item>
+                    </list>
+                    <figure id="fig2">
+                        <media id="idm1645712" alt=""><image src="../../media/Schematic.png" mime-type="image/png" width="150"/></media>
+                        <caption>
+                            Schematic symbols for a battery and a light bulb.
+                        </caption>
+                    </figure>
+                </para>
+            </section>
+        </section>
+        <section id="TwoBulbs">
+            <title>Lighting Two Bulbs</title>
+            <para id="bob7">
+                After you successfully light up the bulb, you discover that it is too small to illuminate the engine compartment. You remember that your flashlight had a spare bulb; you eventually locate it and try to create a circuit that generates twice as much light.
+            </para>
+            <section id="TwoPQs">
+                <title>Preliminary Question</title>
+                <para id="bob8">
+                    Before beginning this portion of the activity, complete the following preliminary question:
+                    <list id="TPQList" list-type="enumerated">
+                        <item>
+                            Sketch how you will connect wires, the battery, and both bulbs so they both light and provide more light than a single bulb.
+                        </item>
+                    </list>
+                    Discuss your sketch with your team.
+                </para>
+            </section>
+            <section id="TwoAct">
+                <title>Activity</title>
+                <para id="bob9">
+                    Working in your team, find two different configurations in which the battery, wires, and lights are connected so that both bulbs light. For each configuration,
+                    <list id="TwoActList" list-type="bulleted">
+                        <item>Draw a schematic diagram.</item>
+                        <item>Note the brightness of both light bulbs.</item>
+                        <item>Measure and record the voltage across the battery terminals.</item>
+                        <item>Measure and record the voltage across the two lightbulbs.</item>
+                    </list>
+                </para>
+            </section>
+            <section id="TwoPostQ">
+                <title>Post-Activity Questions</title>
+                <para id="bob10">
+                     <list id="TwoPAQ" list-type="enumerated">
+                         <item>
+                            Which configuration provides the larger amount of light? Can you relate this to the voltage across the light bulbs?
+                         </item>
+                     </list>   
+                </para>
+            </section>
+        </section>
+    </content>
+</document>

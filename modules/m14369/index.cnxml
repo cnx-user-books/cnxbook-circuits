@@ -1,0 +1,72 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Two Light Bulbs and A Battery: an Elementary Circuits Activity (Instructor Information)</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>0fed919a-bfc8-4e51-99c9-6f3f55e361d6</md:uuid>
+</metadata>
+<content>
+    <note id="idp10000944">
+        This module provides instructor information for <link document="m14370">the Two Light Bulbs and A Battery: an Elementary Circuits Activity module</link>.
+    </note>  
+    <section id="sec1">
+        <title>Activity Objectives</title>
+        <para id="bob1">
+            <list id="list1" list-type="bulleted">
+                <item>Students can create a simple electrical circuit.</item>
+                <item>Students can relate the schematic representation of the circuit to the real circuit.</item>
+                <item>Students can measure voltage.</item>
+                <item>Students recognize that series and parallel connections are different.</item>
+                <item>
+                    Address several common potential student misunderstandings:
+                    <list id="list1a" list-type="bulleted">
+                        <item>Complete circuit</item>
+                        <item>Light bulb contacts</item>
+                        <item>Direct route</item>
+                        <item>Resistive superposition</item>                    
+                    </list>                
+                </item>
+            </list>
+        </para>
+    </section>
+    <section id="sec2">
+        <title>Background Information</title>
+        <para id="bob2">
+            <cite target-id="Engelhardt"><cite-title>Engelhardt and Beichner</cite-title></cite> have identified several common misconceptions that students may have when working with beginning electrical circuits concepts.  These misconceptions include the following:
+            <list id="list2" list-type="bulleted">
+                <item>Battery superposition: 2 batteries cause a bulb to shine twice as bright as one battery regardless of arrangement.  </item>
+                <item>Battery as a constant current source: battery supplies same amount of current to each circuit regardless of the circuit’s arrangement </item>
+                <item>Complete circuit: unable to identify a complete circuit—closed loop</item>
+                <item>Light bulb contacts: unable to identify the two contacts on the light bulb   </item>
+                <item>Current consumed: current value decreases as you move through circuit elements until you return to the battery where there is no more current left.</item>
+                <item>Direct route: battery is the only source of charge so only those elements with a direct contact to the battery will light. </item>
+                <item>Local: Current splits evenly at every junction regardless of the resistance of each branch.     </item>
+                <item>Resistive superposition:  2 resistors reduce the current by 2 relative to one resistor  regardless of the resistors' arrangement.</item>
+                <item>Rule application error: misapplied a rule governing circuits; for example, used the equation for resistors in series when the circuit showed resistors in parallel </item>
+                <item>Sequential: only changes before an element will affect that element</item>
+                <item>I/R Term confusion: resistance viewed as being caused by the current; a resistor resists the current so a current must flow for there to be any resistance.</item>
+                <item>I/V Term confusion: voltage viewed as a property of current; current is the cause of the voltage; voltage and current always occur together. </item>
+                <item>Topology: all resistors lined up geometrically in series are in series whether there is a junction or not. All resistors lined up geometrically in parallel are in parallel even if a battery is contained within a branch.</item>
+            </list>    
+        </para>
+    </section>
+    <section id="sec3">
+        <title>Description of Activity</title>
+        <para id="bob4">
+            Students work in teams. Each team receives a multimeter, two flashlight bulbs, a battery, and six pieces of wire.  For the first part of the activity, each team is instructed to light the bulb using the battery and wire.  This is followed by class instruction on measuring voltage using the multimeter. The teams work then to create circuits with two light bulbs.
+        </para>
+    </section>
+
+</content>
+<bib:file>
+    <bib:entry id="Engelhardt">
+        <bib:article>
+            <bib:author>P. V. Engelhardt; R. J. Beichner</bib:author>
+            <bib:title>Students’ understanding of direct current resistive electrical circuits</bib:title>
+            <bib:journal>American Journal of Physics</bib:journal>
+            <bib:year>2004</bib:year>
+            <bib:volume>72</bib:volume>
+            <bib:number>1</bib:number>
+            <bib:pages>98-115</bib:pages>
+        </bib:article>
+    </bib:entry>
+</bib:file>
+
+</document>

@@ -1,0 +1,22 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Electricity in Simple, Series, and Parallel Circuits</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m15610</md:content-id>
+  <md:title>Electricity in Simple, Series, and Parallel Circuits</md:title>
+  <md:abstract>Concepts of Ohm's Law, power, current, and voltage as they apply to simple circuits, series circuits, and parallel circuits are covered in these tutorials.</md:abstract>
+  <md:uuid>c625c6fa-c034-4b30-8825-437725b894f9</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://www.college-cram.com/study/physics/" strength="3">More Physics Resources</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="delete_me"><link url="http://www.college-cram.com/study/physics/electricity/ohms-law/">Ohm's Law</link> -- Ohm's Law describes the fundamental relationship between voltage, resistance, and current. This Formula Solver! Series program shows the step-by-step solution for using any two values (which you can enter yourself) to find the third.</para><para id="element-817"><link url="http://www.college-cram.com/study/physics/electricity/current-in-a-simple-circuit/">Current in a Simple Circuit</link> -- Current is defined as the flow of electricity through a circuit over time. This Formula Solver! Series program shows the step-by-step solution for finding current, charge, or time from the other two values (which you can enter yourself).</para><para id="element-658"><link url="http://www.college-cram.com/study/physics/electricity/current-in-a-parallel-circuit/">Current in a Parallel Circuit</link> -- Current is a function of voltage and resistance. This Formula Solver! Series program shows the step-by-step solution for finding current in parallel circuits using your own voltage and resistance values.</para><para id="element-875"><link url="http://www.college-cram.com/study/physics/electricity/power-in-a-simple-circuit/">Power in a Simple Circuit</link> -- In the world of electricity, power is the product of current and voltage. This Formula Solver! Series program shows the step-by-step solution for finding power, current, or voltage from the other two values (which you can enter yourself).</para><para id="element-519"><link url="http://www.college-cram.com/study/physics/electricity/power-in-a-parallel-circuit/">Power in a Parallel Circuit</link> -- In parallel circuits, power is a function of current and voltage. This Formula Solver! Series program shows the step-by-step solution for using voltage and resistance to find current and power (all with your own values).</para><para id="element-47"><link url="http://www.college-cram.com/study/physics/electricity/resistance-in-a-series-circuit/">Resistance in a Series Circuit</link> -- This Formula Solver! Series program shows the step-by-step solution for finding resistance in a series circuit (using up to four resistance values which you can enter yourself).</para><para id="element-638"><link url="http://www.college-cram.com/study/physics/electricity/resistance-in-a-parallel-circuit/">Resistance in a Parallel Circuit</link> -- This Formula Solver! Series program shows the step-by-step solution for finding electrical resistance in parallel circuits (using up to four resistance values which you can enter yourself).</para>   
+  </content>
+  
+</document>
