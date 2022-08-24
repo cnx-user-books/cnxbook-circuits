@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Megan Pee">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10589</md:content-id>
     <md:title>Circuits</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>977d5386-7f93-45cb-b95b-8fd5597c19aa</md:uuid>
-<md:slug>circuits</md:slug>
-</metadata>
+    <md:slug>circuits</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Lesson 1</md:title>
